@@ -1,0 +1,14 @@
+C:\Users\Dave\Desktop\VB\taapBrowser\bin\Debug\taapBrowser.exe.config
+c:\users\doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\bin\Debug\taapBrowser.exe.config
+c:\users\doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\obj\Debug\taapBrowser.vbprojResolveAssemblyReference.cache
+c:\users\doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\obj\Debug\taapBrowser.Form1.resources
+c:\users\doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\obj\Debug\taapBrowser.Forms.FrmBrowser.resources
+c:\users\doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\obj\Debug\Resources.resources
+c:\users\doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\obj\Debug\taapBrowser.vbproj.GenerateResource.Cache
+C:\Users\Doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\bin\Debug\taapBrowser.exe
+C:\Users\Doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\bin\Debug\taapBrowser.pdb
+C:\Users\Doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\bin\Debug\Awesomium.Mono.dll
+C:\Users\Doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\bin\Debug\Awesomium.Mono.xml
+C:\Users\Doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\obj\Debug\taapBrowser.exe
+C:\Users\Doucineau\documents\visual studio 2013\Projects\Professional WebBrow1\taapBrowser\obj\Debug\taapBrowser.pdb
